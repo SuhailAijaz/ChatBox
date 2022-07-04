@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815942904587",
+    "project_id": "chatbysas",
+    "storage_bucket": "chatbysas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815942904587:android:d8a27f248eb08b6251900e",
+        "android_client_info": {
+          "package_name": "com.example.chatbysas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815942904587-vcnks3u9a4qc0i7cdpquovc59fup6cip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhffDNTRokjbBZW7DfoR_QmMMhF0U7Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815942904587-vcnks3u9a4qc0i7cdpquovc59fup6cip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
